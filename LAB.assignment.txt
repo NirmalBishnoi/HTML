@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>
+LAB ASSIGNMENT
+</title>
+
+</head>
+<body bgcolor="lightyellow">
+<center>
+<h1>  India and its Culture </h1>
+</center>
+
+<h2> <font color=blue> Introduction </font></h2> 
+<p><font color="pink", font size="12">  India is a Large Country. </font></p>
+<p><font color="magenta", font size="12"> Different regions observe variations in climate. </font></p>
+
+<h2> <font color=green> About indian Diversity </font></h2>
+<p> <font color=pink> The Spoken language of one state is quite different from that of another.</p>
+<p> <font color=magenta> They wear different types of garments.</p>
+<p> <font color=pink> They celebrate different festivals and perform various religious rites.</p>
+<p> <font color=magenta> People belonging to diverse cultures belong to different religious faiths.</p>
+<p> <font color=pink> In spite of these diversities Indian feel a sense of unity and oneness among them.</p>
+
+<h2> <font color=blue> Conclusion </font></h2>
+<p> <font color="magenta",font size="12"> Thus, we Conclude that indian is a land of Unity in Diversity </font> </p> 
+
+ 
+</body>
+</html>
