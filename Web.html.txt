@@ -10,7 +10,7 @@
     <body>
         <section class="header">
           <nav>
-            <a href="index.html"><img src="C:\Users\Ramprakash\Pictures\LOGO/logo.PNG"</a>
+            <a href="index.html"><img src=""</a>
            <div class="nav-links" id="navLinks">
              <i class="fa fa-times" onclick="hideMenu()"></i>
             <ul>
@@ -76,21 +76,21 @@
              
              <div class="row">
                 <div class="campus-col">
-                  <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+                  <img src="">
                   <div class="layer">
                     <h3>LONDON</h3>
                   </div>
                 </div>
                 
                 <div class="campus-col">
-                  <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+                  <img src="">
                   <div class="layer">
                     <h3>NEW YORK</h3>
                   </div>
                 </div>
                 
                 <div class="campus-col">
-                  <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+                  <img src="">
                   <div class="layer">
                     <h3>WASHINGTON</h3>
                   </div>
@@ -108,7 +108,7 @@
         
         <div class="row">
           <div class="facilities-col">
-            <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+            <img src="">
             <h3>Our Library</h3>
             <p>How To Make Website Using HTML
                & CSS Full Responsive Multi
@@ -116,7 +116,7 @@
           </div>
           
           <div class="facilities-col">
-            <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+            <img src="">
             <h3>Our Playground</h3>
             <p>How To Make Website Using HTML
                & CSS Full Responsive Multi
@@ -124,7 +124,7 @@
           </div>
           
           <div class="facilities-col">
-            <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+            <img src="">
             <h3>Oue Food area</h3>
             <p>How To Make Website Using HTML
                & CSS Full Responsive Multi
@@ -144,7 +144,7 @@
        
        <div class="row">
          <div class="testimonials-col">
-           <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+           <img src="">
            <div>
              <p>This is the scenario depicting the
                 least possible execution time of an
@@ -153,7 +153,7 @@
             </div>
          </div>
           <div class="testimonials-col">
-           <img src="C:\Users\Ramprakash\Pictures\LOGO/RECKLESS.PNG">
+           <img src="">
            <div>
              <p>This is the scenario depicting the
                 least possible execution time of an
